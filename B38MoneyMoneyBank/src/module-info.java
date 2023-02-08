@@ -1,0 +1,2 @@
+module B38MoneyMoneyBank {
+}
